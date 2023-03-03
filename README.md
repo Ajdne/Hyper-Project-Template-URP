@@ -5,3 +5,4 @@ The assets and plugins included are:
 - Rainbow Hierarchy by Borodar
 - GUI PRO Kit - Simple Casual
 - Epic Toon FX
+- LeanPool By Carlos Wilkes
