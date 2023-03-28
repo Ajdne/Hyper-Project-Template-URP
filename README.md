@@ -1,4 +1,4 @@
-# Project-Template-URP
+# HyperCasual-Project-Template-URP
  A project template in URP (Universal Render Pipeline) and some other assets and plugins
  
 The assets and plugins included are:
@@ -8,3 +8,4 @@ The assets and plugins included are:
 - LeanPool By Carlos Wilkes (https://carloswilkes.com/Documentation/LeanPool)
 - Cinemachine (https://docs.unity3d.com/Packages/com.unity.cinemachine@2.3/manual/index.html)
 - DOTween (HOTween V2) (http://dotween.demigiant.com/documentation.php)
+- Multiple Screenshot Editor by Mr.Yilanci
