@@ -6,5 +6,5 @@ The assets and plugins included are:
 - GUI PRO Kit - Simple Casual
 - Epic Toon FX
 - LeanPool By Carlos Wilkes
-- Cinemachine
-- DOTween (HOTween V2)
+- Cinemachine ()
+- DOTween (HOTween V2) (http://dotween.demigiant.com/documentation.php)
