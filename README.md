@@ -9,3 +9,4 @@ The assets and plugins included are:
 - Cinemachine (https://docs.unity3d.com/Packages/com.unity.cinemachine@2.3/manual/index.html)
 - DOTween (HOTween V2) (http://dotween.demigiant.com/documentation.php)
 - Multiple Screenshot Editor by Mr.Yilanci
+- Smart Timers Manager (https://seenax.com/AssetStore/SmartTimersManager/ReadMe.pdf)
